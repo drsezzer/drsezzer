@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* [Willowbrook](https://github.com/alan-turing-institute/gen-mas-sim)
+* [Hexaco-rep](https://github.com/alan-turing-institute/hexaco-rep)
